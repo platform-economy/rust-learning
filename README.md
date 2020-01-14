@@ -7,3 +7,5 @@ https://firecracker-microvm.github.io/
 https://rustinblockchain.org/
 
 https://this-week-in-rust.org/
+
+! https://github.com/rust-lang/rust/contribute
