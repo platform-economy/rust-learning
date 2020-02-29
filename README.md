@@ -8,4 +8,6 @@ https://rustinblockchain.org/
 
 https://this-week-in-rust.org/
 
+https://os.phil-opp.com/
+
 ! https://github.com/rust-lang/rust/contribute
