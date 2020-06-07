@@ -1,5 +1,7 @@
 # rust-learning
 
+https://github.com/getreu/play-rsa
+
 https://varkor.github.io/blog/
 
 https://firecracker-microvm.github.io/
